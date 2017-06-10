@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Anim Four 1.7</string>
+
+    <string name="hello_world">Sistema ELFO de Informática!</string>
+    <string name="hello">Edmar Luiz Leone Fogaça</string>
+    <string name="world">Cruz Alta - RS - Brasil</string>
+    <string name="action_settings">AndroidSlideLeftSlideRightandSlide</string>
+    <string name="action">Android Programming-TopAnimation</string>
+    <string name="act">Incluido Menu Settings</string>
+    <string name="settings">WebSite:https://elfogaca.</string>
+    <string name="set">wixsite.com/portifolio-elfo</string>
+    <string name="wor">Fogaça´s Home Page</string>
+    <string name="helloworld">elfo´s System</string>
+
+</resources>
